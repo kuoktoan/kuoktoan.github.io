@@ -1,1 +1,2 @@
-Status: GL: OK, VN: OK, TW: OK, KR: OK
+Jailbreak: GL Safe, VN Safe, KR Safe, TW Safe
+No Jailbreak: GL Danger, VN Danger, KR Danger, TW Danger
